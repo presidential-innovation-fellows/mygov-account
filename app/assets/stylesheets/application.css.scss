@@ -240,6 +240,8 @@ a.button:visited {color: #fff;}
   border-image: url(button-positive.png) 12 fill repeat;
 }
 
+#wrap .panel .button.positive, #wrap .panel a.button.positive {color: #fff;}
+
 @media only screen and (max-width: 767px) {
   .button.positive, a.button.positive {margin-right: 0;}
 }
